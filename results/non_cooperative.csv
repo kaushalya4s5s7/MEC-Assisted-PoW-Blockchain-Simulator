@@ -1,0 +1,2 @@
+scenario,num_runs,ecp_utility,system_utility,avg_coalition_size,avg_nonce_length,avg_bandwidth_kb,blocks_found,total_rewards
+Non-Cooperative,5,"{'mean': 0.0, 'std': 0.0, 'min': 0.0, 'max': 0.0, 'ci_95': (0.0, 0.0)}","{'mean': 60525.114280061425, 'std': 3973.3570842348, 'min': 54585.4031890004, 'max': 66365.46441007902, 'ci_95': (55009.21036619807, 66041.01819392479)}","{'mean': 1.0, 'std': 0.0}","{'mean': 0.0, 'std': 0.0}","{'mean': 3255.859375, 'std': 115.15158572643496, 'min': 3081.0546875, 'max': 3417.96875}",51.2,89124.06318488457

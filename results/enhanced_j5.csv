@@ -1,0 +1,2 @@
+scenario,num_runs,ecp_utility,system_utility,avg_coalition_size,avg_nonce_length,avg_bandwidth_kb,blocks_found,total_rewards
+Enhanced Architecture (J=5),5,"{'mean': 57456.0, 'std': 0.0, 'min': 57456.0, 'max': 57456.0, 'ci_95': (57456.0, 57456.0)}","{'mean': 61486.69965553441, 'std': 525.352972380152, 'min': 60746.54443815958, 'max': 62119.83183555775, 'ci_95': (60757.39281120142, 62216.0064998674)}","{'mean': 1.0, 'std': 0.0}","{'mean': 288.0, 'std': 0.0}","{'mean': 105.861328125, 'std': 1.559628709477285, 'min': 103.1953125, 'max': 107.736328125}",10.6,20594.355542527548

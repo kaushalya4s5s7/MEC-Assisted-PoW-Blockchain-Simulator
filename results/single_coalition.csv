@@ -1,0 +1,2 @@
+scenario,num_runs,ecp_utility,system_utility,avg_coalition_size,avg_nonce_length,avg_bandwidth_kb,blocks_found,total_rewards
+Single Coalition (J=1),5,"{'mean': 57456.0, 'std': 0.0, 'min': 57456.0, 'max': 57456.0, 'ci_95': (57456.0, 57456.0)}","{'mean': 61180.82397687689, 'std': 693.0595357195203, 'min': 60250.214637583515, 'max': 62072.33560863232, 'ci_95': (60218.70309909733, 62142.94485465645)}","{'mean': 1.0, 'std': 0.0}","{'mean': 288.0, 'std': 0.0}","{'mean': 684.375, 'std': 9.060742438003192, 'min': 670.166015625, 'max': 695.068359375}",10.6,20660.17660398646

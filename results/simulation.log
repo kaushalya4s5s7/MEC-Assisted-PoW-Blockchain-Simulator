@@ -1,0 +1,11 @@
+2025-12-02 21:48:58,161 - __main__ - INFO - ======================================================================
+2025-12-02 21:48:58,161 - __main__ - INFO - Multi-Coalition Blockchain Mining Simulator
+2025-12-02 21:48:58,161 - __main__ - INFO - ======================================================================
+2025-12-02 21:48:58,662 - __main__ - INFO - Gathering data for visualizations by loading from disk...
+2025-12-02 21:48:58,662 - __main__ - INFO - Loading results from disk: results/
+2025-12-02 21:48:58,944 - analysis.visualize - INFO - Figure saved to figures/fig4_ecp_cost_savings.pdf
+2025-12-02 21:48:58,944 - analysis.visualize - INFO - ECP analysis plot saved to fig4_ecp_cost_savings.pdf
+2025-12-02 21:48:58,944 - __main__ - INFO - Visualization generation process completed.
+2025-12-02 21:48:58,944 - __main__ - INFO - ======================================================================
+2025-12-02 21:48:58,944 - __main__ - INFO - Execution completed successfully
+2025-12-02 21:48:58,944 - __main__ - INFO - ======================================================================

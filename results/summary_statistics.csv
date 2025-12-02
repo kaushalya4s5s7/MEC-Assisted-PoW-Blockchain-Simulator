@@ -1,0 +1,20 @@
+enhanced_j3,enhanced_j5,enhanced_j7,non_cooperative,multi_coalition_j3_naive,single_coalition
+"                      scenario  num_runs  ... blocks_found total_rewards
+0  Enhanced Architecture (J=3)         5  ...          9.8  19081.019293
+
+[1 rows x 9 columns]","                      scenario  num_runs  ... blocks_found total_rewards
+0  Enhanced Architecture (J=5)         5  ...         10.6  20594.355543
+
+[1 rows x 9 columns]","                      scenario  num_runs  ... blocks_found total_rewards
+0  Enhanced Architecture (J=7)         5  ...          9.4   18237.96441
+
+[1 rows x 9 columns]","          scenario  num_runs  ... blocks_found total_rewards
+0  Non-Cooperative         5  ...         51.2  89124.063185
+
+[1 rows x 9 columns]","                      scenario  num_runs  ... blocks_found total_rewards
+0  Multi-Coalition (J=3 Naive)         5  ...          9.6  18617.531982
+
+[1 rows x 9 columns]","                 scenario  num_runs  ... blocks_found total_rewards
+0  Single Coalition (J=1)         5  ...         10.6  20660.176604
+
+[1 rows x 9 columns]"

@@ -1,0 +1,14 @@
+╔═══════════════════════════════════════════════════════════════╗
+║  Multi-Coalition Blockchain Mining Simulation - Final Report  ║
+╚═══════════════════════════════════════════════════════════════╝
+
+Execution Date: Tue Dec  2 21:34:23 IST 2025
+Configuration: 5 runs per scenario
+Quick Mode: true
+
+This report summarizes the results from the simulation run. For detailed
+metrics, please see the CSV files in the 'results/' directory.
+
+Key Figures:
+- See the 'figures/' directory for generated plots.
+
